@@ -16,7 +16,7 @@ log_file="$PWD/ssr_check.log"
 config_file="$PWD/ssr_check.conf"
 success_file="${PWD}/ssr_success.log"
 LOCAL_PORT=1080
-SPEED_TEST_URL="https://github.com/fwindpeak/ssr-check/raw/master/1M"
+SPEED_TEST_URL="https://github.com/luantu/ssr-check/blob/master/1M"
 
 
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
